@@ -1,0 +1,124 @@
+{
+  "gofries": [
+    {
+      "id": 1,
+      "name": "Gofri OG",
+      "ingredients": [
+        "Plain gofri pasta",
+        "Love"
+      ],
+      "price": 1000,
+      "allergens": [1, 2]
+    },
+    {
+      "id": 2,
+      "name": "Nutella Gofri",
+      "ingredients": [
+        "Nutella",
+        "Love"
+      ],
+      "price": 1500,
+      "allergens": [1, 2, 5, 6]
+    },
+    {
+      "id": 3,
+      "name": "Avocado Waffle",
+      "ingredients": [
+        "Poached eggs",
+        "Aleppo chillies",
+        "Love"
+      ],
+      "price": 1800,
+      "allergens": [1, 4]
+    },
+    {
+      "id": 4,
+      "name": "Duck Benedict",
+      "ingredients": [
+        "Smoked duck breast",
+        "Poached eggs",
+        "Hollandaise",
+        "Sriracha",
+        "Love"
+      ],
+      "price": 1700,
+      "allergens": [1, 2, 4, 5]
+    },
+    {
+      "id": 5,
+      "name": "Smoked Salmon Royale",
+      "ingredients": [
+        "Poached eggs",
+        "Hollandaise",
+        "Horseradish",
+        "Chive",
+        "Love"
+      ],
+      "price": 1600,
+      "allergens": [1, 2, 3]
+    },
+    {
+      "id": 6,
+      "name": "Eggs Florentine",
+      "ingredients": [
+        "Poached eggs",
+        "Spinach",
+        "Hollandaise",
+        "Lemon zest",
+        "Love"
+      ],
+      "price": 2000,
+      "allergens": [1, 3, 5]
+    },
+    {
+      "id": 7,
+      "name": "Duck & Waffle",
+      "ingredients": [
+        "Crispy leg confit",
+        "Fried duck egg",
+        "Mustard maple syrup",
+        "Love"
+      ],
+      "price": 2200,
+      "allergens": [1, 2, 3]
+    },
+    {
+      "id": 8,
+      "name": "The Full Elvis",
+      "ingredients": [
+        "PBJ",
+        "Caramelised banana",
+        "Chantilly",
+        "All the trimmings",
+        "Love"
+      ],
+      "price": 1900,
+      "allergens": [1, 3, 4]
+    },
+    {
+      "id": 9,
+      "name": "Caramelised Banana",
+      "ingredients": [
+        "Hazelnut chocolate spread",
+        "vanilla ice cream",
+        "Love"
+      ],
+      "price": 2000,
+      "allergens": [1, 2, 6]
+    },
+    {
+      "id": 10,
+      "name": "Lemon Meringue",
+      "ingredients": [
+        "Lemon curd",
+        "Italian meringue",
+        "Lemon sorbet",
+        "Dill",
+        "Love"
+      ],
+      "price": 1600,
+      "allergens": [1, 2, 3, 5]
+    }
+  ]
+}
+

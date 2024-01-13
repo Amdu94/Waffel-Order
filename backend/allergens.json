@@ -1,0 +1,30 @@
+{
+	"allergens": [
+		{
+			"id": 1,
+			"name": "Lactose"
+		},
+		{
+			"id": 2,
+			"name": "Gluten"
+		},
+		{
+			"id": 3,
+			"name": "Milk"
+		},
+		{
+			"id": 4,
+			"name": "Eggs"
+		},
+		{
+			"id": 5,
+			"name": "Soybeans"
+		},
+		{
+			"id": 6,
+			"name": "Hazelnuts"
+		}
+	]
+}
+
+

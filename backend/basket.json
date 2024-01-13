@@ -1,0 +1,10 @@
+{
+  "basket": [
+    {
+      "id": 3,
+      "name": "Avocado Waffle",
+      "price": 1800,
+      "amount": 2
+    }
+  ]
+}
